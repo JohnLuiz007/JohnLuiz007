@@ -1,11 +1,9 @@
-### Hi there 👋
-
-
-**JohnLuiz007/JohnLuiz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![281751769_5257640317662940_7985416519552755777_n-removebg-preview](https://github.com/JohnLuiz007/JohnLuiz007/assets/115198373/664b5d40-727f-4a34-a852-1a5a33a34984)
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
