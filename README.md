@@ -12,3 +12,10 @@ Hello! My name is Luiz!
     I dislike Calculus 🔢
     
 
+git commands
+
+1. git add- Adds changes in the code
+2. git commit- commits the changes in the code
+3. git init- initializes a new repository
+4. git push- sends the comittied changes from the local repository to another or the main. 
+5. git status- checks the current status of the repository.
