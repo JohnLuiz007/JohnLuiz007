@@ -1,7 +1,8 @@
 
-Here are some ideas to get you started:
 ![281751769_5257640317662940_7985416519552755777_n-removebg-preview](https://github.com/JohnLuiz007/JohnLuiz007/assets/115198373/664b5d40-727f-4a34-a852-1a5a33a34984)
 
+
+Hello! My name is Luiz!
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
